@@ -30,7 +30,7 @@ How to Run
    python weather.py
 
 Demo
-(https://drive.google.com/file/d/1fIeFw6AizjXc9f7WUjyJzyUyZwiuuViU/view?usp=sharing)
+(https://youtu.be/4C6hMZ6HyXI)
 
 Author
 Franklyn Chigozirim Ngurukwem
